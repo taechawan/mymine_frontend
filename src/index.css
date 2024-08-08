@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.headerText {
+  font-family: "Kanit"!important;
+  font-weight: bold!important;
+  font-size: 23px!important;
+  color: #797979!important;
+}
+
+.headerTextLogin {
+  font-family: "Kanit"!important;
+  font-weight: bold!important;
+  font-size: 40px!important;
+  color: #8295B1!important;
+}
+
+.headerTextLogin2 {
+  font-family: "Kanit"!important;
+  font-weight: bold!important;
+  font-size: 25px!important;
+  color: #8295B1!important;
+}
